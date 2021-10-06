@@ -4,11 +4,11 @@
 
 ## Ejemplo:
 
-#lista = ['miel', 'extraterrestre', 'al', 'automovil', 'auto', 'revestir']
+    #lista = ['miel', 'extraterrestre', 'al', 'automovil', 'auto', 'revestir']
 
-#alfabeto = 'zyxwvutsrqponmlkjihgfedcba'
+    #alfabeto = 'zyxwvutsrqponmlkjihgfedcba'
 
-def ordenar_extraterrestre(desordenadas, orden_alfabeto):
+     def ordenar_extraterrestre(desordenadas, orden_alfabeto):
 
     # ordenada = ['revestir', 'miel', 'extraterrestre', 'auto', 'automovil', 'al']
 
